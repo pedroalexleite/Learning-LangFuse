@@ -66,16 +66,17 @@ This project demonstrates how LangFuse addresses these challenges through:
 ```
 Learning-LangFuse/
 │
-├── LLM-Judge-1.ipynb           # Approach 1: Manual evaluation in Python
-├── LLM-Judge-2.ipynb           # Approach 2: LangFuse Datasets + Runs
-├── Embedding-Similarity.ipynb  # Approach 3: Cosine similarity evaluation
-├── Agent.ipynb                 # ReAct agent with 6 tools
-├── Multi-Agent.ipynb           # Orchestrator + specialist agents
+├── Code/
+│   ├── LLM-Judge-1.ipynb           # Approach 1: Manual evaluation in Python
+│   ├── LLM-Judge-2.ipynb           # Approach 2: LangFuse Datasets + Runs
+│   ├── Embedding-Similarity.ipynb  # Approach 3: Cosine similarity evaluation
+│   ├── Agent.ipynb                 # ReAct agent with 6 tools
+│   └── Multi-Agent.ipynb           # Orchestrator + specialist agents
 │
 ├── Data/
-│   └── golden_dataset.json     # 20 Q&A pairs across 7 categories
+│   └── golden_dataset.json         # 20 Q&A pairs across 7 categories
 │
-└── README.md                   # This file
+└── README.md                       # This file
 ```
 
 ### Key Dependencies
