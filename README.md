@@ -5,18 +5,16 @@
 ![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-LLM observability with LangFuse: tracing, evaluation, and monitoring for a healthcare chatbot — from a simple chatbot to agents and multi-agents.
+Learning LangFuse hands-on wincluding: tracing, evaluating, and monitoring LLMs across a healthcare chatbot, agent, and multi-agent system.
 
 ## 🎯 TL;DR
 
-This project explores **LangFuse for LLM observability** across 5 progressively complex notebooks:
+This project explores **LangFuse for LLM observability** across progressively complex notebooks:
 
 - **3 Evaluation Approaches**: Manual LLM-as-a-Judge, LangFuse Datasets+Runs, and LangFuse built-in evaluators.
 - **Embedding Similarity**: Cosine similarity scoring as an alternative to LLM-as-a-Judge.
 - **ReAct Agent**: Single agent with 6 tools traced end-to-end in LangFuse.
 - **Multi-Agent System**: Triage → Specialist routing with full trace hierarchy.
-- **Golden Dataset**: 20 healthcare Q&A pairs across 7 categories used for evaluation.
-- **Model Comparison**: Llama 3.1 8B (baseline 4.25/5) vs Llama 3.3 70B (new 4.35/5).
 
 ## 💡 Problem/Motivation
 
@@ -84,8 +82,8 @@ Learning-LangFuse/
 
 ```
 langfuse==2.x
-google-genai             # Gemini 2.5 Flash (agents) + Gemini Embedding 001
-openai                   # OpenAI-compatible client for Groq
+google-genai             
+openai                   
 python-dotenv
 numpy
 ```
