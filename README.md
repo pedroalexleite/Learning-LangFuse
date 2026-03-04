@@ -103,7 +103,7 @@ Both chatbots answer each golden dataset question. A judge LLM (Llama 3.1 8B) sc
 
 Same evaluation flow, but the golden dataset lives inside LangFuse. Each chatbot run is logged as a named Dataset Run. Scores and reasoning are attached directly to traces via `create_score`, enabling side-by-side comparison inside the LangFuse UI.
 
-![Uploading Captura de ecrã 2026-03-03, às 13.34.36.png…]()
+<img width="1328" height="563" alt="Captura de ecrã 2026-03-04, às 10 53 02" src="https://github.com/user-attachments/assets/b3fd3368-522c-4336-85fb-472ca83e9c9c" />
 
 <img width="1186" height="527" alt="Captura de ecrã 2026-03-03, às 13 34 43" src="https://github.com/user-attachments/assets/5546effb-ee68-4dd0-906e-168e1666d14a" />
 
