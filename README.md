@@ -250,8 +250,8 @@ Run in order to build on each concept:
 
 ```bash
 # 1. Start with evaluation approaches
-jupyter notebook LLM-Judge-1.ipynb       # Manual evaluation
-jupyter notebook LLM-Judge-2.ipynb       # LangFuse datasets
+jupyter notebook LLM-Judge-1.ipynb
+jupyter notebook LLM-Judge-2.ipynb
 jupyter notebook Embedding-Similarity.ipynb
 
 # 2. Then the agents
