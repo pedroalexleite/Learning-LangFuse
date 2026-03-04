@@ -5,7 +5,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-Learning LangFuse hands-on wincluding: tracing, evaluating, and monitoring LLMs across a healthcare chatbot, agent, and multi-agent system.
+Learning LangFuse hands-on including: tracing, evaluating, and monitoring LLMs across a healthcare chatbot, agent, and multi-agent system.
 
 ## 🎯 TL;DR
 
