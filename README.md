@@ -11,7 +11,7 @@ Learning LangFuse hands-on including: tracing, evaluating, and monitoring LLMs a
 
 This project explores **LangFuse for LLM observability** across progressively complex notebooks:
 
-- **3 Evaluation Approaches**: Manual LLM-as-a-Judge, LangFuse Datasets+Runs, and LangFuse built-in evaluators.
+- **3 LLM-as-a-Judge Approaches**: Manual, LangFuse Datasets+Runs, and LangFuse built-in evaluators.
 - **Embedding Similarity**: Cosine similarity scoring as an alternative to LLM-as-a-Judge.
 - **ReAct Agent**: Single agent with 6 tools traced end-to-end in LangFuse.
 - **Multi-Agent System**: Triage → Specialist routing with full trace hierarchy.
