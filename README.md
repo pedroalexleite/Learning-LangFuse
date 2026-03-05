@@ -157,7 +157,7 @@ User Question → Triage Agent → MEDICATION / SYMPTOMS / EMERGENCY / GENERAL
                                  Final Answer
 ```
 
-<img width="817" height="585" alt="Captura de ecrã 2026-03-03, às 13 35 40" src="https://github.com/user-attachments/assets/24afbe54-a082-481c-a9aa-433771dbec24" />
+<img width="953" height="696" alt="Captura de ecrã 2026-03-05, às 18 22 09" src="https://github.com/user-attachments/assets/08092cfd-0b94-45a4-b8c3-9405c0e7f3dc" />
 
 <img width="1336" height="388" alt="Captura de ecrã 2026-03-03, às 13 35 54" src="https://github.com/user-attachments/assets/ad7589e6-e52c-44b5-871c-0fe4fc5d5613" />
 
